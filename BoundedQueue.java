@@ -12,6 +12,7 @@ import java.util.Queue;
  * 
  * This class is not thread-safe.
  * 
+ * @author Gustav Akesson - gustav.r.akesson@gmail.com
  * @param <E>
  *            The type of elements held in this collection
  */
